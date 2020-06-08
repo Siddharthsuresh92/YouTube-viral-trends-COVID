@@ -44,3 +44,5 @@ The reason for restricting data to 10 days was the fact that it was taking a tol
 <img src = "static.jpg">
 
 The static visualization provides insights on YouTube videos that were trending in the last 10 days of April. It specifically emphasizes on views, likes, tags and channels. It helps understand what people watch during a randomly sampled window of 10 days during the peak of a pandemic. It also conveys the cultural differences in terms of the distrbution of video categories in different countries. An example of this would be: News & Politics related videos are watched a lot in India and Singapore but barely in Brazil or Mexico.
+
+For the final interactive visualization, check out my [Tableau Public](https://public.tableau.com/profile/siddharth.suresh8869#!/vizhome/YouTube-Viral-Trends-COVID-19/YT) submission
